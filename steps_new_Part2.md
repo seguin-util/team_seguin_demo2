@@ -21,7 +21,7 @@
 ### Step-2
 Before you start Mission-2 create a new class diagram.  Head to draw.io and select a new uml model and re-create the diagram as seen in the image.
 ---
-![](https://drive.google.com/open?id=1YAVTa85S5F_K6mrJ5ROwu1QL_j3Pn-u5)
+![](https://github.com/seguin-util/team_seguin_demo2/blob/master/LoopbackUserDiagram.jpg)
 ---
 
 ### Step-3
