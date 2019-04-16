@@ -13,7 +13,9 @@
 - Add an Application Manifest for Deployment
 
 ### Step-1
-- Create a new folder in your project folder called team_seguin_demo2 and re-run Mission-1.
+- In terminal run
+- ```git clone https://github.com/seguin-util/team_seguin_demo2.git```
+- This will have ***steps_new2.md*** file with all the instructions on how to complete this exercise.
 
 ### Step-2
 Before you start Mission-2 create a new class diagram.  Head to draw.io and select a new uml model and re-create the diagram as seen in the image.
@@ -21,16 +23,18 @@ Before you start Mission-2 create a new class diagram.  Head to draw.io and sele
 ![](/Users/jsaldana/Downloads/LoopbackUserDiagram.png)
 ---
 
-### Begin with creating a new directory in your projects folder on your desktop called team_seguin_demo2 then at your terminal run
+### Step-3
+- Rebuild Mission-1 so that you have a new Scaffolded Loopback Application in your team_seguin_demo2 folder
 
-- ```git clone git@github.com:seguin-util/team_seguin_demo2.git```
-- Now open the new folder by typing ```atom .```
-- This will show all files in the folder including the ***steps_new2.md*** file with all the instructions on how to complete this exercise.
+### Step-4
+- With Mission-1 complete its time to start Mission-2.  Before we move to far commit your work to github.
 
+- from terminal:
+- ```git status```  
+- ```git add .```
+- git commit -a -m "your first commit and complete Mission-1"
+- Push new commits to central repository with ```git push origin master```
 
-### Step 1
-- From terminal create a new model ```lb model``` and configure the class from the class diagram
-- Start with the Student Model as base class select the user model and add properties as specified in the class diagram
 
 
 
