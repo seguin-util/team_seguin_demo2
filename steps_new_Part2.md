@@ -34,7 +34,28 @@ Before you start Mission-2 create a new class diagram.  Head to draw.io and sele
 - ```git status```  
 - ```git add .```
 - git commit -a -m "your first commit and complete Mission-1"
-- Push new commits to central repository with ```git push origin master```
+
+### Step-5
+- terminal run:  ```lb model```
+- Start with Student Model and base model as the built user model we built from Mission-1
+- select memory database
+- base class - LoopbackUserDiagram
+- Expose the rest API? yes
+- Custom Plural form? hit enter
+- common model? common
+
+
+### Step-7
+- Now set Properties
+- First Property: Major
+- property type: string
+- required? yes
+- default value leave blank
+
+### Step-8
+- Just hit enter to leave the wizard sounds weird but you essentialy create an empty property that is its trigger to exit
+
+
 
 
 
