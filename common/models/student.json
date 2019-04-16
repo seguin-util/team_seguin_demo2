@@ -1,0 +1,22 @@
+{
+  "name": "student",
+  "base": "User",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {
+    "college": {
+      "type": "string",
+      "required": true
+    },
+    "major": {
+      "type": "string",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}
