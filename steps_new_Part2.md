@@ -21,7 +21,7 @@
 ### Step-2
 Before you start Mission-2 create a new class diagram.  Head to draw.io and select a new uml model and re-create the diagram as seen in the image.
 ---
-![](/Users/jsaldana/Downloads/LoopbackUserDiagram.png)
+![](/Users/jsaldana/Downloads/LoopbackUserDiagram.jpg)
 ---
 
 ### Step-3
