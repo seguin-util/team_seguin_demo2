@@ -14,7 +14,8 @@
 
 ### Step-1
 - In terminal run
-- ```git clone https://github.com/seguin-util/team_seguin_demo2.git```
+- Change to your Projects folder and run ```git clone https://github.com/seguin-util/team_seguin_demo2.git```
+- This will generate a new folder with the cloned project
 - This will have ***steps_new2.md*** file with all the instructions on how to complete this exercise.
 
 ### Step-2
