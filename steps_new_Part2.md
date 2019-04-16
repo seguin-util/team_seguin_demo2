@@ -38,6 +38,7 @@ Before you start Mission-2 create a new class diagram.  Head to draw.io and sele
 ### Step-5
 - terminal run:  ```lb model```
 - Start with Student Model and base model as the built user model we built from Mission-1
+- Model Name:  Student
 - select memory database
 - base class - LoopbackUserDiagram
 - Expose the rest API? yes
@@ -47,12 +48,19 @@ Before you start Mission-2 create a new class diagram.  Head to draw.io and sele
 
 ### Step-7
 - Now set Properties
-- First Property: Major
+- First Property: college
 - property type: string
 - required? yes
 - default value leave blank
 
 ### Step-8
+- Now set Properties
+- First Property: major
+- property type: string
+- required? yes
+- default value leave blank
+
+### Step-9
 - Just hit enter to leave the wizard sounds weird but you essentialy create an empty property that is its trigger to exit
 
 
